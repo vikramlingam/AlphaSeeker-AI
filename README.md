@@ -13,7 +13,7 @@ AlphaSeeker AI is a Streamlit‑based web application that helps investors perfo
 ## Core Architecture
 - **`app.py`**: The main Streamlit application handling the UI and state.
 - **`finance_engine.py`**: Handles data fetching from `yfinance` and complex calculations like the Reverse DCF.
-- **`agent_engine.py`**: Manages LLM interactions via OpenRouter for competitor analysis and the CFO persona.
+- **`agent_engine.py`**: Manages LLM interactions via OpenRouter for competitor analysis and the explanations.
 
 ## Key Features Verified
 
