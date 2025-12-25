@@ -112,3 +112,4 @@ Feel free to open issues or submit pull requests. When adding new features, keep
 
 ## License
 This project is licensed under the MIT License.
+---
